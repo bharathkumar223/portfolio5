@@ -1,8 +1,8 @@
-# Dopefolio 🔥
+# Portfolio 🔥
 
 ## A Blazing Fast Multipage Portfolio Template for Developers 🚀
 
-## [Demo Link](https://dopefolio.netlify.app) 🔗
+## [Demo Link](https://bharathkumarsampath.com/) 🔗
 
 <div align="center">
   <img src="https://i.postimg.cc/CxZXqhWM/ezgif-com-video-to-gif-1.gif" alt="Dopefolio Demo" width="100%" />
@@ -30,7 +30,7 @@
 
 ## Support
 
-I do need **support** from amazing people like you as I started posting on **[My Linkedin](https://linkedin.com/in/rammcodes)** and want each one of you to checkout **[My Linkedin](https://linkedin.com/in/rammcodes)** Profile where I post amazing content related to Programming & Web Development 🚀
+I do need **support** from amazing people like you as I started posting on **[My Linkedin](https://www.linkedin.com/in/bharath-kumar-sampath/)** and want each one of you to checkout **[My Linkedin](https://www.linkedin.com/in/bharath-kumar-sampath/)** Profile where I post amazing content related to Programming & Web Development 🚀
 
 <a href="https://linkedin.com/in/rammcodes">
 <div align="center">
@@ -143,7 +143,7 @@ Go to `sass/abstracts/_variables.scss` and change the value of this sass variabl
 $themeClrPrimary: #0062b9;
 ```
 
-**NOTE**: I highly recommend to checkout the [Dopefolio Playground Link](https://dopefolio-playground.netlify.app) to test the template with different colors and see which color do you like the most.
+**NOTE**: I highly recommend to checkout the [Dopefolio Playground Link](https://bharathkumarsampath.com/) to test the template with different colors and see which color do you like the most.
 
 <br/>
 
